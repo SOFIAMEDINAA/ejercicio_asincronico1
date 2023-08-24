@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    place-content: center;
+}
+
+#contenedorTiempos{
+    display: grid;
+    width: 300px;
+}
